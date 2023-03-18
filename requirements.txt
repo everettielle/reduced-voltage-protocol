@@ -1,0 +1,7 @@
+jupyter
+numpy
+matplotlib
+pandas
+myokit
+pints
+tqdm
